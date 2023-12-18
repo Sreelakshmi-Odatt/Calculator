@@ -1,1 +1,2 @@
-# Calculator
+
+This is a Java-based calculator application designed to handle equations in a single line, performing integer arithmetic. The project consists of three main classes: Calculator, CalculatorInput, and CalculatorEngine. The application is designed to run smoothly without crashing, even when users make unexpected inputs as the program will throw exceptions.
